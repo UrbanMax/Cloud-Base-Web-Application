@@ -1,4 +1,5 @@
-This is my project 1
+Build, Host, and Design Your Web Application Using an Azure Free Domain
 
-
-Modify it all I would like tooooo
+Created your own Azure Account 
+Created a subscription.
+Created a resource group 
