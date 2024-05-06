@@ -1,0 +1,43 @@
+Craft Your Web Application with Azure's Free Domain Hosting and Design Services
+
+Embark on your web development journey by harnessing Azure's powerful suite of tools to build,
+host, and design your web application with a complimentary domain. Here's how to get started:
+
+Create Your Azure Account:
+Sign up for an Azure account to gain access to a wealth of cloud services and solutions tailored for web development.
+Set Up Your Subscription:
+Establish a subscription within Azure to manage and organize your cloud resources effectively.
+Configure a Resource Group:
+Create a dedicated resource group to centralize and manage the components of your web application,
+ensuring scalability and efficient resource utilization.
+
+
+Creating a website involves a variety of tools and commands depending on the technology stack you choose. Here's a general overview of common tools and commands used in web development:
+
+Tools Used:
+Text Editors / IDEs:
+Visual Studio Code
+Sublime Text
+Atom
+JetBrains IntelliJ IDEA (for Java-based web development)
+Version Control:
+Git
+GitHub (for hosting repositories)
+GitLab
+Bitbucket
+Front-End Development:
+HTML/CSS/JavaScript
+Frameworks: React, Angular, Vue.js
+Task Runners / Build Tools: npm, yarn, webpack, gulp
+Back-End Development:
+Programming Languages: JavaScript (Node.js), Python, Ruby, Java, PHP, etc.
+Frameworks: Express (Node.js), Django (Python), Ruby on Rails, Spring Boot (Java), Laravel (PHP)
+Database:
+MySQL, PostgreSQL, MongoDB, SQLite, etc.
+Web Servers:
+Apache HTTP Server
+Nginx
+Cloud Services:
+AWS (Amazon Web Services)
+Microsoft Azure
+Google Cloud Platform
