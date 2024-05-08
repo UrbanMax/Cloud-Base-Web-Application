@@ -12,8 +12,12 @@
 
 - ***[Execution](./Project-2/Flags-Execution-Summary.pdf)***
 
+---
+
 ## Project 3 -  -  Splunk - Building a Security Monitoring Environment
 
-- ***[Break Down]./(Project-3/Splunk Report.pdf)***
+- ***[Break Down](./Project-3/Splunk-Report.pdf)***
 
-- ***[Presentation](./Project-3/Splunk Slide Presentation.pdf)***
+- ***[Presentation](./Project-3/Splunk-Slide-Presentation.pdf)***
+
+- ***[Execution](./Project-3/Splunk-Execution.txt)***
