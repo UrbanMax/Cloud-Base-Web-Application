@@ -1,6 +1,3 @@
-These projects encompass various topics including web development, penetration testing, and Splunk.
-
-
 
 ## Project 1 - Cloud Based Apache Web Server
 
