@@ -28,7 +28,7 @@ Privilege Escalation CVE: Leveraging known Common Vulnerabilities and Exposures 
 privileges on compromised systems.
 Bash Scripting: Creating custom scripts in Bash to automate tasks and exploit vulnerabilities identified during testing.
 
-- ***[Break Down](./Project-2/Martina-Russo-Project-2-Rekall-Penetration-Test-Report.pdf)***
+- ***[Report](./Project-2/Martina-Russo-Project-2-Rekall-Penetration-Test-Report.pdf)***
 
 - ***[Execution](./Project-2/Flags-Execution-Summary.pdf)***
 
