@@ -1,3 +1,7 @@
+These projects encompass various topics including web development, penetration testing, and Splunk.
+
+
+
 ## Project 1 - Cloud Based Apache Web Server
 
 The goal of this project is to develop and style web pages using CSS to achieve visually appealing and well-structured layouts.
