@@ -14,6 +14,6 @@
 
 ## Project 3 -  -  Splunk - Building a Security Monitoring Environment
 
-- ***[Break Down](./Cybersecurity-Projects-Folder/Project-3/Splunk Report.pdf)***
+- ***[Break Down]./(Project-3/Splunk Report.pdf)***
 
-- ***[Presentation](./Cybersecurity-Projects-Folder/Project-3/Splunk Slide Presentation.pdf)***
+- ***[Presentation](./Project-3/Splunk Slide Presentation.pdf)***
