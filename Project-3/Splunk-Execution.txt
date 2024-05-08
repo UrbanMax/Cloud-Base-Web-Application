@@ -1,0 +1,86 @@
+
+Execution-Step-by-Step-Guide
+
+Load and Analyze Windows Logs:
+
+Navigate to Splunk and select "Add Data" > "Upload."
+Choose the provided windows_server_logs.csv file.
+Set the source type as instructed and name the host "Windows_server_logs."
+Review settings and upload the data into Splunk.
+Ensure data is searchable by selecting "Start Searching."
+Create Reports, Alerts, and Dashboards for Windows Logs
+
+Reports:
+Report with a table of signatures and associated signature IDs.
+Report displaying severity levels and their counts.
+Report comparing success vs. failure of Windows activities.
+
+Alerts:
+Set alerts for suspicious levels of failed activities, successful logins, and deleted accounts.
+
+Visualizations and Dashboards:
+Design visualizations (e.g., line charts, geographical maps, pie charts) based on signatures, users, HTTP methods, etc., and compile them into a dashboard named "Windows Server Monitoring."
+
+Load and Analyze Apache Logs:
+Use Splunk's "Add Data" > "Upload" feature to upload apache_logs.txt.
+Set source type to "Apache_logs" and upload the data.
+Verify data upload and search for Apache logs.
+Create Reports, Alerts, and Dashboards for Apache Logs
+
+Reports:
+Report on HTTP methods, top referrer domains, and HTTP response codes.
+
+Alerts:
+Set alerts for international activity and suspicious HTTP POST activity.
+
+Visualizations and Dashboards:
+Design visualizations (e.g., line charts, geographical maps, statistical charts) based on HTTP methods, referrer domains, user agents, etc., and compile them into a dashboard named "Apache Web Server Monitoring."
+
+Install an Add-On Splunk Application for Additional Monitoring:
+Choose and install a relevant Splunk add-on app from Splunkbase.
+Ensure the app enhances VSI's monitoring capabilities and describe a scenario demonstrating its utility.
+Capture screenshots of the installed add-on app.
+
+ 
+
+Load and Analyze Windows Logs:
+
+Open Splunk and navigate to "Add Data."
+Select "Upload" and choose windows_server_logs.csv.
+Set source type to default and proceed.
+Name the host as "Windows_server_logs" and review settings.
+Confirm successful upload and start searching with the data.
+Analyze important fields like signature_id, signature, user, status, and severity.
+Create Reports, Alerts, and Dashboards for Windows Logs
+
+Reports:
+Generate reports for signatures, severity levels, and activity comparison (success vs. failure).
+
+Alerts:
+Set up alerts based on thresholds for failed activities, successful logins, and account deletions.
+
+Visualizations and Dashboards:
+Design visualizations using different chart types (line charts, pie charts) for signatures, users, and Windows activity.
+Organize these into a dashboard named "Windows Server Monitoring" with time range flexibility.
+
+Load and Analyze Apache Logs:
+Repeat the data upload process for Apache logs (apache_logs.txt).
+Set source type to default and proceed with the upload.
+Confirm successful upload and begin searching with the new data.
+Analyze key fields like method, referer_domain, status, clientip, and useragent.
+Create Reports, Alerts, and Dashboards for Apache Logs
+
+Reports:
+Generate reports for HTTP methods, referrer domains, and HTTP response codes.
+
+Alerts:
+Set alerts for international activity and suspicious HTTP POST activity based on defined thresholds.
+
+Visualizations and Dashboards:
+Design visualizations like line charts for HTTP methods, geographical maps for client IPs, and pie charts for user agents.
+Consolidate these into a dashboard named "Apache Web Server Monitoring" with customizable time ranges.
+Install an Add-On Splunk Application for Additional Monitoring:
+Choose and install a relevant add-on app from Splunkbase.
+Demonstrate the app's utility in enhancing VSI's monitoring capabilities.
+Capture screenshots of the installed add-on app and describe a scenario illustrating its use.
+By completing these steps, you'll have established a comprehensive monitoring solution using Splunk to safeguard VSI's systems against potential cyberattacks and suspicious activities.
