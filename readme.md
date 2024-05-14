@@ -48,3 +48,16 @@ Splunk (SIEM Platform): Employed Splunk as the Security Information and Event Ma
 - ***[Presentation](./Project-3/Splunk-Slide-Presentation.pdf)***
 
 - ***[Execution](./Project-3/Splunk-Execution.txt)***
+
+---
+## Project 4 - - WiFi-Stealer Profile Extractor & Emailer 
+
+This GitHub repository provides an educational demonstration of network interaction and email automation using Python. It showcases practical techniques for extracting WiFi profile details and sending emails programmatically. The script is designed for learning purposes and should be used responsibly and ethically.
+
+(For Educational Purposes Only)
+
+- ***[Python-Script](Project-4/WIFISTEALER-WITH-COMMENT2.py)***
+
+- ***[Presentation](Project-4/WIFIStealer-Presentation)***
+
+- ***[Resource-&-Presentation-guide](Project-4/WIFIStealer-Presentation-GUIDE.pdf)***
