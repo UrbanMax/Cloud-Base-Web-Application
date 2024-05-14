@@ -1,0 +1,39 @@
+Description:
+This repository hosts a Python script designed for educational purposes to extract WiFi profile information from a Windows machine using netsh wlan commands and securely share the data via email as a CSV attachment. The script utilizes essential Python libraries (subprocess, csv, email.mime, smtplib, os) for system interaction, CSV manipulation, and email composition.
+
+Key Features:
+
+WiFi Profile Extraction (get_wifi_profiles):
+
+Retrieves names and passwords of all WiFi profiles configured on the system using netsh wlan commands.
+Saves the collected information in a CSV file specified by the user.
+Email Notification (send_email):
+
+Sends an email containing the extracted WiFi profile data as a CSV attachment.
+Customizable email settings (SMTP server, port, sender address, subject, body) for flexible usage.
+Ensures secure email transmission via SMTP with TLS encryption.
+Usage:
+
+Configure the email parameters (smtp_server, smtp_port, from_email, email_password) and the CSV file path (attachment_path) in the script.
+Execute the script to gather WiFi profile details and dispatch them via email.
+Educational Purpose:
+This script is intended for educational use to demonstrate basic network interaction techniques and email automation in Python. It showcases how to interact with system commands, handle CSV files, and send emails programmatically. It should be used responsibly and in compliance with ethical guidelines.
+
+Dependencies:
+
+Python 3.x
+Required Python packages: smtplib, email, csv
+Instructions:
+
+Clone the repository or download the script file (wifi_profile_extractor.py).
+Install Python if not already installed.
+Install necessary dependencies using pip install -r requirements.txt (if provided).
+Update the email settings (smtp_server, smtp_port, from_email, email_password) and CSV file path (attachment_path) within the script.
+Run the script (python wifi_profile_extractor.py) to perform WiFi profile extraction and email transmission.
+Note:
+
+Ensure sensitive information (e.g., email credentials) is replaced with secure and managed values.
+Use this script responsibly and adhere to ethical guidelines regarding network security and privacy.
+
+Contributors:
+[THE-Emus-Team]
