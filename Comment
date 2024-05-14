@@ -15,3 +15,9 @@ Splunk:
 Splunk is a platform used for analyzing and visualizing machine-generated data such as logs, events, and metrics.
 It helps organizations gain insights into their data for troubleshooting, monitoring, security analysis, and business 
 intelligence purposes.
+
+Python:
+Python is a versatile, interpreted language known for readability and simplicity. 
+It's widely used in web development, data analysis, AI, and automation.
+Python is employed in cybersecurity to automate security tasks such as threat detection,
+incident response,and vulnerability management using scripts, tools, and technologies.
