@@ -29,7 +29,6 @@ privileges on compromised systems.
 Bash Scripting: Creating custom scripts in Bash to automate tasks and exploit vulnerabilities identified during testing.
 
 - ***[Report](./Project-2/Martina-Russo-Project-2-Rekall-Penetration-Test-Report.pdf)***
-
 - ***[Execution](./Project-2/Flags-Execution-Summary.pdf)***
 
 ---
@@ -44,9 +43,7 @@ Tool Used:
 Splunk (SIEM Platform): Employed Splunk as the Security Information and Event Management (SIEM) platform to centrally collect, analyze, and respond to security events and threats within the VSI environment. This tool enhances visibility and enables proactive threat detection and incident response capabilities to mitigate cyber risks effectively.
 
 - ***[Break Down](./Project-3/Splunk-Report.pdf)***
-
 - ***[Presentation](./Project-3/Splunk-Slide-Presentation.pdf)***
-
 - ***[Execution](./Project-3/Splunk-Execution.txt)***
 
 ---
@@ -56,8 +53,7 @@ This GitHub repository provides an educational demonstration of network interact
 
 (For Educational Purposes Only)
 
-- ***[Python-Script](Project-4/WIFISTEALER-WITH-COMMENT2.py)***
-
+- ***[Python Script](Project-4/WIFISTEALER-WITH-COMMENT2.py)***
+- ***[Script Break Down](Project-4/Script-Break-Down)***
 - ***[Presentation](Project-4/WIFIStealer-Presentation)***
-
-- ***[Resource-&-Presentation-guide](Project-4/WIFIStealer-Presentation-GUIDE.pdf)***
+- ***[Resource & Presentation guide](Project-4/WIFIStealer-Presentation-GUIDE.pdf)***
